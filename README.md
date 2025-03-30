@@ -45,9 +45,4 @@
   </div>
 
   <br><br>
-
-  <div style="display: inline_block; text-align: center;">
-    <img align="center" alt="bruno-Myslq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="bruno-Php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg" />
-  </div>
 </div>
