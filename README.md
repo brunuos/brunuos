@@ -1,48 +1,20 @@
-<div>
-  <h2 style="text-align: center; font-family: Arial, sans-serif; color: #333;">Minhas Redes</h2>
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/bruno-silva-aragão-bb7333300" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/brunu_us/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:bsaragao1990@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunuos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-  <br><br><br>
+### Olá, meu nome é Bruno!
 
-  <h2 style="text-align: center; font-family: Arial, sans-serif; color: #333;">🚀 Minhas Skills</h2>
+<img src="https://img.shields.io/static/v1?label=Overview&message=brunuos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-  <h2 style="text-align: center; font-family: Arial, sans-serif; color: #333;">Front-End</h2>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-    <img alt="bruno-ReactNative" height="60" width="60" src="https://cdn.simpleicons.org/react/61DAFB" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-TypeScript" height="60" width="60" src="https://cdn.simpleicons.org/typescript/3178C6" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-Js" height="60" width="60" src="https://cdn.simpleicons.org/javascript/F7DF1E" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-HTML" height="60" width="60" src="https://cdn.simpleicons.org/html5/E34F26" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-CSS" height="60" width="60" src="https://cdn.simpleicons.org/css3/1572B6" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-  </div>
+<p>Sou um desenvolvedor FullStack recém-formado, com experiência em várias tecnologias e ferramentas modernas. Tenho paixão por construir soluções escaláveis e de alta performance, e estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades. Estou confortável tanto no desenvolvimento de Front-End quanto Back-End, utilizando tecnologias como JavaScript, TypeScript, Node.js, React, HTML, CSS, além de trabalhar com bancos de dados como MySQL e MongoDB. Minha jornada no mundo da programação é marcada por um constante aprendizado e pela busca de inovação para entregar os melhores resultados possíveis.</p>
 
-  <br><br><br>
+## 🚀 Minhas Skills
 
-  <h2 style="text-align: center; font-family: Arial, sans-serif; color: #333;">Back-End</h2>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-    <img alt="bruno-PHP" height="60" width="60" src="https://cdn.simpleicons.org/php/777BB4" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-SQL" height="60" width="60" src="https://cdn.simpleicons.org/mysql/4479A1" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-CSharp" height="60" width="60" src="https://cdn.simpleicons.org/csharp/0078D4" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-Java" height="60" width="60" src="https://cdn.simpleicons.org/openjdk/FF0000" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img alt="bruno-NodeJS" height="60" width="60" src="https://cdn.simpleicons.org/nodedotjs/339933" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-  </div>
-
-  <br><br>
-
-  <div align="center">
-    <a href="https://github.com/brunuos/">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuos&layout=compact&langs_count=7&theme=darck"/>
-    </a>
-  </div>
-
-  <br><br>
-</div>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactNative"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
